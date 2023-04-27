@@ -130,7 +130,7 @@ footer .footer-content {
 
 }
 
-footer .footer-content h3 {
+footer .footer-content h2 {
   padding: 0;
   margin: 20px 0;
 }
@@ -148,6 +148,7 @@ footer a {
   margin: 10px;
   color: black;
   text-decoration: underline;
+  text-align: center;
 }
 
 footer nav a:first-child {
